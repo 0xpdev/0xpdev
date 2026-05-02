@@ -138,44 +138,44 @@
 
 ```aura width=110 height=44 link="https://x.com/priyanshudevx" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/x/ffffff"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/X.png"
   text="X.com"
   backgroundColor="#08080c"
   width={110}
   height={44}
-  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '50%', color: '#880000' }, { offset: '100%', color: '#cc2222' }]}
+  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#cc2222' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#aa1111' }]}
 />
 ```
 
-```aura width=130 height=44 link="https://substack.com/@priyanshudev" inline align=center
+```aura width=125 height=44 link="https://t.me/priyannnsh" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/substack/FF6719"
-  text="Substack"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/telegram.png"
+  text="Telegram"
   backgroundColor="#08080c"
-  width={130}
+  width={125}
   height={44}
-  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '50%', color: '#880000' }, { offset: '100%', color: '#cc2222' }]}
+  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#cc2222' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#aa1111' }]}
 />
 ```
 
 ```aura width=120 height=44 link="https://discord.com/users/priyanshu.dev." inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/discord/5865F2"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/discord.png"
   text="Discord"
   backgroundColor="#08080c"
   width={120}
   height={44}
-  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '50%', color: '#880000' }, { offset: '100%', color: '#cc2222' }]}
+  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#cc2222' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#aa1111' }]}
 />
 ```
 
 ```aura width=105 height=44 link="mailto:priyanshudev037@gmail.com" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/gmail/EA4335"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/gmail.png"
   text="Email"
   backgroundColor="#08080c"
   width={105}
   height={44}
-  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '50%', color: '#880000' }, { offset: '100%', color: '#cc2222' }]}
+  gradientStops={[{ offset: '0%', color: '#cc2222' }, { offset: '30%', color: '#000000' }, { offset: '60%', color: '#cc2222' }, { offset: '80%', color: '#000000' }, { offset: '100%', color: '#aa1111' }]}
 />
 ```
