@@ -59,12 +59,12 @@
   </svg>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-    <span style={{ fontSize: 60, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>{(github && github.user && (github.user.name || github.user.login)) || 'GitHub Developer'}</span>
-    <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.4)', marginTop: 16, letterSpacing: 5, textTransform: 'uppercase', fontWeight: 300 }}>design · code · create</span>
+    <span style={{ fontSize: 60, fontWeight: 700, color: '#ffffff', letterSpacing: -2, lineHeight: 1 }}>Priyanshu Dev</span>
+    <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.4)', marginTop: 16, letterSpacing: 5, textTransform: 'uppercase', fontWeight: 300 }}>full stack · gen ai · machine learning</span>
     <div style={{ display: 'flex', gap: 8, marginTop: 30 }}>
-      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>minimalism</span>
       <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>open source</span>
-      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>web</span>
+      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>builder</span>
+      <span style={{ padding: '5px 16px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.55)', borderRadius: 100, fontSize: 11, border: '1px solid rgba(255,255,255,0.09)', letterSpacing: 1 }}>ECE undergrad</span>
     </div>
   </div>
 </div>
@@ -116,7 +116,7 @@
       <span style={{ fontSize: 22, fontWeight: 600, color: '#ffffff', lineHeight: 1.3 }}>Building things</span>
       <span style={{ fontSize: 22, fontWeight: 600, color: '#ffffff', lineHeight: 1.3 }}>that matter.</span>
       <div style={{ display: 'flex', alignItems: 'center', marginTop: 14 }}>
-        <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.45)', fontFamily: 'monospace' }}>{'> open to collaborations'}</span>
+        <span style={{ fontSize: 13, color: 'rgba(255,255,255,0.45)', fontFamily: 'monospace' }}>{'> ECE undergrad · open to collabs'}</span>
         <span id="ab-cursor" style={{ fontSize: 13, color: 'rgba(255,255,255,0.6)', fontFamily: 'monospace', marginLeft: 1 }}>_</span>
       </div>
     </div>
@@ -126,15 +126,15 @@
     <div style={{ position: 'relative', display: 'flex', flex: 1, background: '#08080d', borderRadius: 16, overflow: 'hidden', alignItems: 'center', justifyContent: 'center' }}>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW95cTRnOXM1dTc1YTFwNjRkcGNkN2RqYjdhdTB3NTc3NDFiNjFxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
       <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>🎯</span>
-        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>always learning</span>
+        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>🤖</span>
+        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>gen ai · ml</span>
       </div>
     </div>
     <div style={{ position: 'relative', display: 'flex', flex: 1, background: '#08080d', borderRadius: 16, overflow: 'hidden', alignItems: 'center', justifyContent: 'center' }}>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdhbXMwdWNkaDA5eTM4Y3ZjYnYzNTR5YnB0M21jdzlrd2gyczQxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGh13y4IVFZzCACfTX/giphy.gif" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
       <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center', zIndex: 10 }}>
-        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>⭐</span>
-        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>craft matters</span>
+        <span style={{ fontSize: 32, fontWeight: 700, color: '#ffffff' }}>⚡</span>
+        <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.4)', letterSpacing: 2, textTransform: 'uppercase', marginTop: 4 }}>full stack</span>
       </div>
     </div>
   </div>
@@ -146,7 +146,6 @@
   <style>{`
     @keyframes stack-orb { 0%, 100% { transform: translate(0,0); opacity: 0.45; } 50% { transform: translate(18px,-14px); opacity: 0.7; } }
     @keyframes stack-orb-b { 0%, 100% { transform: translate(0,0); opacity: 0.4; } 50% { transform: translate(-14px,10px); opacity: 0.65; } }
-    @keyframes chip-appear { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
     #st-o1 { animation: stack-orb 10s ease-in-out infinite; }
     #st-o2 { animation: stack-orb-b 12s ease-in-out infinite 1s; }
     #st-o3 { animation: stack-orb 9s ease-in-out infinite 2.5s; }
@@ -178,17 +177,14 @@
   </svg>
   <span style={{ fontSize: 11, color: 'rgba(255,255,255,0.3)', letterSpacing: 4, textTransform: 'uppercase', marginBottom: 20, zIndex: 10 }}>stack</span>
   <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10, justifyContent: 'center', zIndex: 10, maxWidth: 680 }}>
-    {(github && github.languages && github.languages.length > 0
-      ? github.languages.slice(0, 10).map(function(l) { return l.name; })
-      : ['TypeScript', 'React', 'Node.js', 'Rust', 'Go', 'PostgreSQL', 'Docker', 'Figma', 'SVG', 'CSS']
-    ).map((tech, i) => (
+    {['JavaScript', 'TypeScript', 'Python', 'React', 'Node.js', 'Next.js', 'C++', 'Java', 'TensorFlow', 'Docker'].map((tech, i) => (
       <span key={i} style={{ padding: '7px 18px', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.65)', borderRadius: 100, fontSize: 12, border: '1px solid rgba(255,255,255,0.08)', letterSpacing: 0.5 }}>{tech}</span>
     ))}
   </div>
 </div>
 ```
 
-```aura width=120 height=44 link="https://github.com/collectioneur" inline align=center
+```aura width=120 height=44 link="https://github.com/0xpdev" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/github/ffffff"
   text="GitHub"
@@ -206,7 +202,7 @@
 />
 ```
 
-```aura width=138 height=44 link="https://x.com/collectioneur" inline align=center
+```aura width=138 height=44 link="https://x.com/priyanshudevx" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/x/ffffff"
   text="X.com"
@@ -224,25 +220,61 @@
 />
 ```
 
-```aura width=130 height=44 link="https://t.me/collectioneur" inline align=center
+```aura width=150 height=44 link="https://substack.com/@priyanshudev" inline align=center
 <SocialMediaButton
-  icon="https://cdn.simpleicons.org/telegram/26A5E4"
-  text="Telegram"
-  backgroundColor="#0a2939"
-  width={130}
+  icon="https://cdn.simpleicons.org/substack/FF6719"
+  text="Substack"
+  backgroundColor="#1a0d00"
+  width={150}
   height={44}
   gradientStops={[
     { offset: '0%', color: '#ffffff' },
     { offset: '10%', color: '#111111' },
     { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#26A5E4' },
+    { offset: '60%', color: '#FF6719' },
     { offset: '80%', color: '#111111' },
     { offset: '100%', color: '#555555' },
   ]}
 />
 ```
 
-```aura width=110 height=44 link="mailto:hello@collectioneur.dev" inline align=center
+```aura width=145 height=44 link="https://linkedin.com/in/priyanshudev1" inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/linkedin/0A66C2"
+  text="LinkedIn"
+  backgroundColor="#00101a"
+  width={145}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' },
+    { offset: '10%', color: '#111111' },
+    { offset: '50%', color: '#eeeeee' },
+    { offset: '60%', color: '#0A66C2' },
+    { offset: '80%', color: '#111111' },
+    { offset: '100%', color: '#555555' },
+  ]}
+/>
+```
+
+```aura width=135 height=44 link="https://discord.com/users/priyanshu.dev." inline align=center
+<SocialMediaButton
+  icon="https://cdn.simpleicons.org/discord/5865F2"
+  text="Discord"
+  backgroundColor="#0a0a1a"
+  width={135}
+  height={44}
+  gradientStops={[
+    { offset: '0%', color: '#ffffff' },
+    { offset: '10%', color: '#111111' },
+    { offset: '50%', color: '#eeeeee' },
+    { offset: '60%', color: '#5865F2' },
+    { offset: '80%', color: '#111111' },
+    { offset: '100%', color: '#555555' },
+  ]}
+/>
+```
+
+```aura width=110 height=44 link="mailto:priyanshudev037@gmail.com" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/gmail/EA4335"
   text="Email"
