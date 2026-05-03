@@ -130,7 +130,7 @@
 
 ```aura width=110 height=44 link="https://x.com/priyanshudevx" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/X.png"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/X.png"
   text="X.com"
   backgroundColor="#07050f"
   width={110}
@@ -141,7 +141,7 @@
 
 ```aura width=125 height=44 link="https://t.me/priyannnsh" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/telegram.png"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/telegram.png"
   text="Telegram"
   backgroundColor="#07050f"
   width={125}
@@ -152,7 +152,7 @@
 
 ```aura width=120 height=44 link="https://discord.gg/9TJ9Uywhky" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/discord.png"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/discord.png"
   text="Discord"
   backgroundColor="#07050f"
   width={120}
@@ -163,7 +163,7 @@
 
 ```aura width=105 height=44 link="mailto:priyanshudev037@gmail.com" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/gmail.png"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/gmail.png"
   text="Email"
   backgroundColor="#07050f"
   width={105}
@@ -174,7 +174,7 @@
 
 ```aura width=120 height=44 link="https://leetcode.com/u/priyanshudev/" inline align=center
 <SocialMediaButton
-  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/icons/leetcode.png"
+  icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/leetcode.png"
   text="LeetCode"
   backgroundColor="#07050f"
   width={120}
