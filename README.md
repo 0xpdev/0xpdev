@@ -8,13 +8,11 @@
 <a href="https://x.com/priyanshudevx"><img src="./.github/assets/readme-aura-component-3-1422e500.svg" width="110" height="44" /></a><a href="https://t.me/priyannnsh"><img src="./.github/assets/readme-aura-component-4-c66a112f.svg" width="125" height="44" /></a><a href="https://discord.gg/3XxzJwK29w"><img src="./.github/assets/readme-aura-component-5-2d608ae8.svg" width="120" height="44" /></a><a href="mailto:priyanshudev037@gmail.com"><img src="./.github/assets/readme-aura-component-6-d92fc2cd.svg" width="105" height="44" /></a><a href="https://leetcode.com/u/priyanshudev/"><img src="./.github/assets/readme-aura-component-7-266e8f63.svg" width="120" height="44" /></a>
 </p>
 
-## ☕ support
-
 <div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge\&logo=buymeacoffee\&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
  
-[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0xc388b454c98F52963F3544E1dF07195a23daEbab)
+[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
 
