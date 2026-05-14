@@ -184,13 +184,11 @@
 ```
 
 
-## ☕ support
-
 <div align="center">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
 &nbsp;
-[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge&logo=ethereum&logoColor=e6edf3)](https://etherscan.io/address/0xc388b454c98F52963F3544E1dF07195a23daEbab)
+[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge&logo=ethereum&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
 
