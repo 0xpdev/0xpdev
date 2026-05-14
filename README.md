@@ -9,14 +9,6 @@
 </p>
 
 <div align="center">
-
-[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge\&logo=buymeacoffee\&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
- 
-[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
-
-</div>
-
-<div align="center">
 <br/>
 
 ![Streak](https://streak-stats.demolab.com?user=0xpdev\&theme=dark\&background=07050f\&ring=8b5cf6\&fire=a78bfa\&currStreakLabel=a78bfa\&sideLabels=888888\&dates=555555\&border=2d1b69)
@@ -28,5 +20,15 @@
 <br/>
 
 **Open to collaborations, freelance work, and interesting ideas.** <br/> <sub>If you're building something ambitious — let's talk.</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge\&logo=buymeacoffee\&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
+ 
+[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
