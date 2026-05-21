@@ -11,8 +11,6 @@
 <div align="center">
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=0xpdev\&theme=dark\&background=07050f\&ring=8b5cf6\&fire=a78bfa\&currStreakLabel=a78bfa\&sideLabels=888888\&dates=555555\&border=2d1b69)
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xpdev\&color=8b5cf6\&labelColor=07050f\&style=flat-square\&label=PROFILE+VIEWS)
