@@ -42,12 +42,8 @@
   </div>
   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 168, gap: 8, zIndex: 10 }}>
     <div style={{ fontSize: 38, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>Priyanshu Dev</div>
-    <div style={{ fontSize: 15, color: 'rgba(196,181,253,0.8)', fontWeight: 400 }}>Full Stack Engineer · Gen AI · Machine Learning</div>
-    <div style={{ display: 'flex', gap: 8, marginTop: 6, flexWrap: 'wrap' }}>
-      {['JavaScript', 'Python', 'C++', 'Java', 'React', 'Next.js'].map(function(tag) {
-        return <div key={tag} style={{ padding: '4px 12px', borderRadius: 20, background: 'rgba(139,92,246,0.15)', border: '1px solid rgba(139,92,246,0.35)', color: 'rgba(221,214,254,0.9)', fontSize: 12, fontWeight: 600 }}>{tag}</div>;
-      })}
-    </div>
+    <div style={{ fontSize: 15, color: 'rgba(196,181,253,0.8)', fontWeight: 400 }}>Full Cyber Security Engineer</div>
+
   </div>
 </div>
 ```
@@ -108,9 +104,9 @@
     </div>
     <div style={{ width: 1, height: 60, background: 'rgba(139,92,246,0.2)', flexShrink: 0 }} />
     <div style={{ display: 'flex', flexDirection: 'column', gap: 8, flex: 1 }}>
-      <span style={{ fontSize: 9, color: 'rgba(167,139,250,0.7)', letterSpacing: 3, textTransform: 'uppercase' }}>FRAMEWORKS</span>
+      <span style={{ fontSize: 9, color: 'rgba(167,139,250,0.7)', letterSpacing: 3, textTransform: 'uppercase' }}>Tools</span>
       <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-        {['React', 'Next.js', 'Node.js', 'Docker'].map((t, i) => (
+        {['Burpsuite', 'Linux OS', 'Nmap', 'Docker'].map((t, i) => (
           <span key={i} style={{ padding: '4px 14px', background: 'rgba(59,130,246,0.12)', color: 'rgba(191,219,254,0.9)', borderRadius: 100, fontSize: 12, border: '1px solid rgba(59,130,246,0.25)', fontWeight: 500 }}>{t}</span>
         ))}
       </div>
@@ -208,7 +204,3 @@
 [![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge&logo=ethereum&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
-
-
-
-
