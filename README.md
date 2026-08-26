@@ -32,8 +32,3 @@
 [![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="0xpdev banner">
-</p>
-
