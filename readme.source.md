@@ -43,7 +43,7 @@
   </div>
   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 168, gap: 8, zIndex: 10 }}>
     <div style={{ fontSize: 38, fontWeight: 800, color: '#ffffff', letterSpacing: '-1px', lineHeight: 1 }}>Priyanshu Dev</div>
-    <div style={{ fontSize: 15, color: 'rgba(196,181,253,0.8)', fontWeight: 400 }}> Java Full Stack Developer</div>
+    <div style={{ fontSize: 15, color: 'rgba(196,181,253,0.8)', fontWeight: 400 }}> Developer // Cyber Security // Devops</div>
 
   </div>
 </div>
