@@ -125,7 +125,7 @@
 </div>
 ```
 
-```aura width=110 height=44 link="https://x.com/pr1yansuu" inline align=center
+```aura width=110 height=44 link="https://x.com/priyan0x" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/X.png"
   text="X.com"
