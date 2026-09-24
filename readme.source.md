@@ -147,7 +147,7 @@
 />
 ```
 
-```aura width=120 height=44 link="https://discord.gg/3XxzJwK29w" inline align=center
+```aura width=120 height=44 link="https://discord.gg/qzWg8XdXgs" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/discord.png"
   text="Discord"
