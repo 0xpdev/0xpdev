@@ -17,7 +17,9 @@
 
 <br/>
 
-**Open to collaborations, freelance work, and interesting ideas.** <br/> <sub>If you're building something ambitious — let's talk.</sub>
+**Open to collaborations, freelance work, and interesting ideas.**
+<br/>
+<sub>If you're building something ambitious — let's talk.</sub>
 
 </div>
 
