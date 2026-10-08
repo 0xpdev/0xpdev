@@ -147,7 +147,7 @@
 />
 ```
 
-```aura width=120 height=44 link="https://discord.gg/qzWg8XdXgs" inline align=center
+```aura width=120 height=44 link="[https://discord.gg/qzWg8XdXgs](https://discord.com/invite/jKV88TuBe8?fbclid=PAb21jcAU0k3FleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp63CFvceWMNlTlMGrEBJncE3gRR3QUmBIxcUxsjNDY_v1W3yrdXlaHXwGH5D_aem_wznbXqyydx8NsCPfr3Ltqw)" inline align=center
 <SocialMediaButton
   icon="https://raw.githubusercontent.com/0xpdev/0xpdev/main/.github/icons/discord.png"
   text="Discord"
