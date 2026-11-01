@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="90" viewBox="0 0 300 90">
+  <style>
+    .n { font: 800 18px 'Inter','Segoe UI',Arial,sans-serif; fill: #fff }
+    .s { font: 600 13px 'Inter','Segoe UI',Arial,sans-serif; fill: #9a9a9a }
+    .j { font: 700 12px 'Inter','Segoe UI',Arial,sans-serif; fill: #8b5cf6; letter-spacing: 1px }
+  </style>
+  <defs>
+    <clipPath id="ic"><rect width="512" height="512" rx="110"/></clipPath>
+    <path id="p" fill-rule="evenodd" d="M190 150H290C340 150 372 185 372 227C372 270 337 302 287 302H250V362H190ZM250 196V256H280C298 256 310 246 310 226C310 206 298 196 280 196Z"/>
+  </defs>
+  <rect width="300" height="90" rx="12" fill="#000"/>
+
+  <!-- server icon (vector redraw of the P logo) -->
+  <svg x="18" y="19" width="52" height="52" viewBox="0 0 512 512">
+    <g clip-path="url(#ic)">
+      <rect width="512" height="512" fill="#a3cdf8"/>
+      <path d="M0 0H240C215 60 160 90 95 112C45 130 12 160 0 195Z" fill="#2147d0"/>
+      <path d="M0 0H110C95 35 55 60 0 70Z" fill="#0a1a8a"/>
+      <path d="M512 280C470 292 430 335 402 398C372 452 330 490 280 512H512Z" fill="#2147d0"/>
+      <path d="M512 395C472 415 442 465 424 512H512Z" fill="#0a1a8a"/>
+      <g transform="translate(-10 8)"><use href="#p" fill="#f97316" stroke="#0b1a7a" stroke-width="14" stroke-linejoin="round"/></g>
+      <g transform="translate(14 16)"><use href="#p" fill="#2a4de0" stroke="#0b1a7a" stroke-width="14" stroke-linejoin="round"/></g>
+      <use href="#p" fill="#fdf6e3" stroke="#0b1a7a" stroke-width="14" stroke-linejoin="round"/>
+      <g stroke="#f97316" stroke-width="10" stroke-linecap="round">
+        <line x1="340" y1="118" x2="336" y2="148"/>
+        <line x1="368" y1="148" x2="392" y2="128"/>
+        <line x1="378" y1="188" x2="408" y2="190"/>
+      </g>
+    </g>
+  </svg>
+
+  <text x="86" y="40" class="n">💻🍓 Code ClubHouse</text>
+  <text x="86" y="60" class="s">devops + cyber sec</text>
+  <text x="86" y="78" class="j">JOIN THE SERVER →</text>
+</svg>
