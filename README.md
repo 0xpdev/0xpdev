@@ -11,27 +11,11 @@
 <div align="center">
 <br/>
 
-<br/>
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="middle">
-      <a href="https://discord.com/users/1552519981621710911">
-        <img src="https://lanyard.cnrad.dev/api/1552519981621710911?theme=dark&bg=000000&borderRadius=12px&showDisplayName=true&hideDiscrim=true&animated=true" alt="Discord profile" width="330" />
-      </a>
-    </td>
-    <td valign="middle">
-      <a href="https://discord.gg/mcp6yrZF59">
-        <img src="https://img.shields.io/discord/1561003666448584716?label=Code%20ClubHouse&logo=discord&logoColor=white&color=161b22&labelColor=000000&style=for-the-badge" alt="Join the server" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://discord.com/users/1552519981621710911"><img src="https://lanyard.cnrad.dev/api/1552519981621710911?theme=dark&bg=000000&borderRadius=12px&showDisplayName=true&hideDiscrim=true&animated=true" alt="Discord profile" width="330" align="middle" /></a>  <a href="https://discord.gg/mcp6yrZF59"><img src="./server-card.svg" alt="Code ClubHouse" width="300" align="middle" /></a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xpdev&color=8b5cf6&labelColor=07050f&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=0xpdev\&color=8b5cf6\&labelColor=07050f\&style=flat-square\&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -45,8 +29,14 @@
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
-&nbsp;
-[![PayPal](https://img.shields.io/badge/PayPal-161b22?style=for-the-badge&logo=paypal&logoColor=e6edf3)](https://paypal.me/0xpdev)
+[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-161b22?style=for-the-badge\&logo=buymeacoffee\&logoColor=e6edf3)](https://buymeacoffee.com/priyanshudev)
+ 
+[![PayPal](https://img.shields.io/badge/PayPal-161b22?style=for-the-badge\&logo=paypal\&logoColor=e6edf3)](https://paypal.me/0xpdev)
+ 
+[![ETH](https://img.shields.io/badge/ETH-0xc388b...aEbab-161b22?style=for-the-badge\&logo=ethereum\&logoColor=e6edf3)](https://etherscan.io/address/0x3908362Fb692573a9a8f2740112798952e7aeae4)
 
 </div>
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="0xpdev banner">
+</p>
