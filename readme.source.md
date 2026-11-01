@@ -1,4 +1,3 @@
-
 ```aura width=860 height=200
 <div style={{ width: '100%', height: '100%', background: '#07050f', display: 'flex', alignItems: 'center', fontFamily: 'Inter, sans-serif', position: 'relative', overflow: 'hidden', borderRadius: 16, border: '1px solid rgba(139,92,246,0.25)' }}>
   <style>{`
@@ -183,6 +182,8 @@
 
 <div align="center">
 <br/>
+
+<a href="https://discord.com/users/1552519981621710911"><img src="https://lanyard.cnrad.dev/api/1552519981621710911?theme=dark&bg=000000&borderRadius=12px&showDisplayName=true&hideDiscrim=true&animated=true" alt="Discord profile" width="330" align="middle" /></a>&nbsp;&nbsp;<a href="https://discord.gg/mcp6yrZF59"><img src="./server-card.svg" alt="Code ClubHouse" width="300" align="middle" /></a>
 
 <br/>
 
