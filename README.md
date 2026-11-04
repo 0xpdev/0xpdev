@@ -15,15 +15,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0xpdev\&color=8b5cf6\&labelColor=07050f\&style=flat-square\&label=PROFILE+VIEWS)
 
-<br/>
-
-**Open to collaborations, freelance work, and interesting ideas.**
-<br/>
-<sub>If you're building something ambitious — let's talk.</sub>
-
-</div>
 
 <br>
 
@@ -40,3 +32,5 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="0xpdev banner">
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=0xpdev\&color=8b5cf6\&labelColor=07050f\&style=flat-square\&label=PROFILE+VIEWS)
