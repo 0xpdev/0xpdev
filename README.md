@@ -11,9 +11,6 @@
 <div align="center">
 <br/>
 
-<a href="https://discord.com/users/1552519981621710911"><img src="https://lanyard.cnrad.dev/api/1552519981621710911?theme=dark&bg=000000&borderRadius=12px&showDisplayName=true&hideDiscrim=true&animated=true" alt="Discord profile" width="330" align="middle" /></a>  <a href="https://discord.gg/mcp6yrZF59"><img src="./server-card.svg" alt="Code ClubHouse" width="300" align="middle" /></a>
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xpdev\&color=8b5cf6\&labelColor=07050f\&style=flat-square\&label=PROFILE+VIEWS)
 
